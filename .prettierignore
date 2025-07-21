@@ -1,0 +1,6 @@
+# Ignore this specific YAML file
+docker-compose.yml
+
+# Or ignore all YAML files
+*.yml
+*.yaml
